@@ -20,6 +20,6 @@
 ## 🎅 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,javascript,cpp,mongodb,flask,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,python,javascript,cpp,mongodb,flask,postgresql,discord" />
   </a>
 </p>
