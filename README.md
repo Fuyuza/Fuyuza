@@ -1,4 +1,4 @@
-` # ` ```cat ~/Fuser/Projects/Portfolio/page.html```
+```# cat ~/Fuser/Projects/Portfolio/page.html```
 
 ![logo](https://cdn.discordapp.com/avatars/688672323032580140/d9ded71827450abd2bc848150f460545.webp?size=1280)
 
