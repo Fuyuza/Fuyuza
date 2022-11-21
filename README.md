@@ -7,7 +7,7 @@
 
 👨‍💻 I'm a 14y/o boy who likes Programing, Technology, Music
 
-🧠  I'm currently learning `["js", "py", "c++", ...]`
+🧠  I'm currently learning `["js", "py", "c++", "rust", ...]`
 
 📪 Contact Me 
 { mail: [email](khatarnakself@gmail.com), discord: "ඞfuser $_#6254" }
