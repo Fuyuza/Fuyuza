@@ -1,6 +1,6 @@
 ```# cat ~/Fuser/Projects/Portfolio/page.html```
 
-![logo](https://cdn.discordapp.com/avatars/688672323032580140/d9ded71827450abd2bc848150f460545.webp?size=1280)
+![logo](https://avatars.githubusercontent.com/u/109461244?s=400&u=cdfe29872fd8b821c741bcee477796b78e10060a&v=4)
 
 ## About myself
 🎃 Hi I'm `Fuyūzā / Fuser` 
