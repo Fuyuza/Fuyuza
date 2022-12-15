@@ -15,8 +15,6 @@
 🧬 Pronouns...
 `["He","Him"]` or better to call with my name
 
-⚡ Fun fact... **...**
-
 ## 🎅 Skills
 <p align="center">
   <a href="https://skillicons.dev">
